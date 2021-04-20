@@ -1,0 +1,9 @@
+class Aplicacao{
+	public static void main(String[] args){
+		Conta conta1 = new Conta();
+		double rendimento;
+		
+
+		System.out.println(conta1.recuperaDadosParaImpressao());
+	}
+}

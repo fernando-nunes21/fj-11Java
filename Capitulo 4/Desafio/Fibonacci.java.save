@@ -1,0 +1,8 @@
+class Fibonacci{
+	int n1 = 0;
+	int n2 = 1;
+
+	int calculaFibonacci(int pos){
+		return (pos>0?():());
+	}
+}
